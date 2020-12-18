@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1034330891400",
+    "project_id": "ecommerce-d87c2",
+    "storage_bucket": "ecommerce-d87c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034330891400:android:19e99e2ef2096c05142b3d",
+        "android_client_info": {
+          "package_name": "com.company.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034330891400-2hqf3dogurlfdhoo11029lroh0079vi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNHtnCcuI3JXeJVCdq-fqDH_5tWCl_kF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034330891400-2hqf3dogurlfdhoo11029lroh0079vi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034330891400:android:ff05f28999e853a8142b3d",
+        "android_client_info": {
+          "package_name": "com.company.flutterecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034330891400-bojensm76f1dafjvqbbadvl27bs141cg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.flutterecom",
+            "certificate_hash": "ce5779723ac257362acb67bdd4cff164ef1ce311"
+          }
+        },
+        {
+          "client_id": "1034330891400-2hqf3dogurlfdhoo11029lroh0079vi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNHtnCcuI3JXeJVCdq-fqDH_5tWCl_kF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034330891400-2hqf3dogurlfdhoo11029lroh0079vi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
